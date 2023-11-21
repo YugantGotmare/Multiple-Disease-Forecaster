@@ -14,10 +14,8 @@ This project is a Multiple Disease Forecaster that predicts the likelihood of va
 
 ## Usage
 
-1. Visit the deployed application on Streamlit Cloud: [Your Streamlit Cloud URL]
+1. Visit the deployed application on Streamlit Cloud: [[Your Streamlit Cloud URL](https://multiple-disease-forecaster.streamlit.app/)]
 
 2. Input the required features for disease prediction.
 
-3. Click the "Predict" button to get the forecast for the likelihood of diseases.
-
-4. Review the results and recommendations provided by the application.
+3. Review the results and recommendations provided by the application.
